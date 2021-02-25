@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "discord.js": "^12.5.1",
+    "node-bash-title": "^0.0.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
